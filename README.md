@@ -5,13 +5,13 @@ O sistema foi criado para atender às necessidades da empresa **CaquiCanela**, q
 
 # Telas
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba324081-cc99-4016-8e92-cfaf154b1e34" />
-<img width="1920" height="1080" alt="image2" src="https://github.com/user-attachments/assets/0566659a-eca2-4da6-add8-f0a957eb2e9b" />
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/c3c06e8c-6a6d-4f60-8a56-31f934eefcb6" />
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/fdfa4bc0-86e0-4fa6-aac1-e6f466700f55" />
-<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/3bf99f97-ba95-4bcf-a78a-c009da356ec4" />
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/1f87b0f3-a0c6-4309-80b2-b8e0c6766555" />
-<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/9588e7a3-b874-4db7-b857-698f2e24299d" />
+<img width="1159" height="577" alt="imagem (3)" src="https://github.com/user-attachments/assets/b88a50ac-69b7-48d7-86a6-4a2bc8301e43" />
+<img width="1163" height="576" alt="image" src="https://github.com/user-attachments/assets/b6dd7f26-fad3-41af-b5bc-39f44781361d" />
+<img width="1160" height="576" alt="image" src="https://github.com/user-attachments/assets/2c7972de-5b4a-41eb-83ec-fed85b452bbd" />
+<img width="1157" height="575" alt="image" src="https://github.com/user-attachments/assets/bbe6ed46-2d3b-4f8a-aba8-22c65565aa00" />
+<img width="1162" height="580" alt="image" src="https://github.com/user-attachments/assets/4f2ac2f0-355a-4673-ad98-92e9f5c1fcb1" />
+<img width="1160" height="577" alt="image" src="https://github.com/user-attachments/assets/333aff19-73b4-4d18-b65b-dbb885045333" />
+<img width="1157" height="578" alt="image" src="https://github.com/user-attachments/assets/489636db-c023-423c-8d18-6269eaad3a60" />
 
 ---
 
